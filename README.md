@@ -12,10 +12,15 @@ Networking: VPCs, Load Balancers, Security Groups
 Databases: RDS, SQL. 
 Security: IAM, RBAC 🌟 Let’s work together to bring success to your cloud projects!
 
-🌍  I'm based in Bangalore, India /n
+🌍  I'm based in Bangalore, India 
+
 ✉️  You can contact me at lavanyasri847@gmail.com
+
 🧠  I'm learning Terraform Advanced Concepts
+
 🤝  I'm open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS. CI/CD Implementation: Designing and optimizing CI/CD pipelines with Azure DevOps, GitHub Actions, and Jenkins to improve software delivery speed and reliability. Containerization Solutions: Developing and managing containerized applications using Docker and Kubernetes to enhance deployment and scalability. DevOps Automation: Automating infrastructure tasks, configuration management, and monitoring to streamline operations and improve efficiency. Technical Blogging: Co-authoring blogs or articles on topics related to DevOps and cloud  to share knowledge and insights.
+
 ⚡  Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry. Mentorship: I am passionate about mentoring budding DevOps engineers, guiding them through cloud concepts, CI/CD, and best practices in automation. 
-Hackathons & Events: I am enthusiastic about participating in hackathons, conferences, and tech meetups to collaborate, learn, and share insights with the community.  
+Hackathons & Events: I am enthusiastic about participating in hackathons, conferences, and tech meetups to collaborate, learn, and share insights with the community. 
+
 👯 Feedback & Improvement: I am always open to feedback to enhance my skills and contribute better to cloud projects and team efforts.
